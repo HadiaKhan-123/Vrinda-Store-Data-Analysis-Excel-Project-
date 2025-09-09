@@ -6,11 +6,14 @@ The goal of the analysis was to identify customer trends, sales performance, and
 I followed along with a YouTube tutorial (link here) and then applied the concepts independently on the dataset.
 
 _Tools & Skills Used_
-
 i) Microsoft Excel
+
 ii) Data Cleaning (handling duplicates, missing values, formatting)
+
 iii) Data Analysis using Pivot Tables & Pivot Charts
+
 iv) Data Visualization (bar charts, pie charts, line graphs, slicers)
+
 v) Dashboard creation
 
 _Key Analysis Performed_
@@ -27,8 +30,11 @@ _Key Analysis Performed_
 _Insights & Findings_
 
 i) Women are more likely to buy compared to men.
+
 ii) The age group 30–49 years is the most profitable customer segment.
+
 iii) Most sales come through Amazon, Flipkart, and Myntra.
+
 iv) The highest sales are observed during festive months (Oct–Dec).
 
 _Conclusion_
