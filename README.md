@@ -6,6 +6,7 @@ The goal of the analysis was to identify customer trends, sales performance, and
 I followed along with a YouTube tutorial (link here) and then applied the concepts independently on the dataset.
 
 _Tools & Skills Used_
+
 i) Microsoft Excel
 
 ii) Data Cleaning (handling duplicates, missing values, formatting)
@@ -19,12 +20,14 @@ v) Dashboard creation
 _Key Analysis Performed_
 
 1) Cleaned raw data for consistency (dates, text formatting, missing values).
+   
 2) Created pivot tables to analyze:
 * Sales by Gender
 * Sales by Age Group
 * Sales by Channel (Online vs Offline)
 * Monthly Sales Trends
 * Top Contributing States
+  
 3) Designed an interactive Excel Dashboard to present insights visually.
 
 _Insights & Findings_
@@ -38,10 +41,15 @@ iii) Most sales come through Amazon, Flipkart, and Myntra.
 iv) The highest sales are observed during festive months (Oct–Dec).
 
 _Conclusion_
+
 i) This project demonstrates how Excel can be used for powerful business analysis and dashboard creation without advanced tools. The findings can help Vrinda Store focus on:
+
 ii) Targeting women customers in the 30–49 age group.
+
 iii) Strengthening partnerships with top e-commerce channels.
+
 iv) Running promotional campaigns during festive months to maximize sales.
 
 _References_
+
 * Tutorial followed: YouTube – Excel Data Analysis Dashboard https://www.youtube.com/watch?v=gTK5rNhWJyA
